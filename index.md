@@ -13,8 +13,8 @@ humandate: "December 1 - 2"    # human-readable dates for the workshop (e.g., "F
 humantime: "9:00 am - 4:30 pm EST"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-12-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-12-02       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Tracy Teal", "Doug Joubert", "Saranya Canchi", "Paige Scudder", "Chissa Rivaldi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Adam Hughes"]     # bo12-xed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Tracy Teal", "Doug Joubert", "Saranya Canchi", "Paige Scudder", "Chissa Rivaldi", "Adam Hughes"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: []     # bo12-xed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["doujou.dc@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["doujou.dc@gmail.com"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
